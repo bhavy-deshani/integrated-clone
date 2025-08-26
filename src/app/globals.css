@@ -1,0 +1,240 @@
+@import "tailwindcss";
+/* @tailwind base;
+@tailwind components; */
+@tailwind utilities;
+body {
+ 
+  scroll-behavior: smooth;
+}
+
+h1, h2, h3, h4, h5, h6 {
+    color: #102A55; 
+}
+
+/* REPLACED DROPDOWN STYLES FOR SMOOTH ANIMATION
+  This is the new and improved animation logic.
+*/
+.dropdown-menu {
+    opacity: 0;
+    transform: translateY(1rem); /* Starts slightly lower */
+    visibility: hidden; /* Hidden but available for transition */
+    pointer-events: none; /* Can't be interacted with when hidden */
+    transition: opacity 0.3s ease, transform 0.3s ease, visibility 0.3s;
+}
+
+.group:hover > .dropdown-menu {
+    opacity: 1;
+    transform: translateY(0); /* Moves to its final position */
+    visibility: visible; /* Becomes visible */
+    pointer-events: auto; /* Becomes interactive */
+}
+
+/* NEW: For the animated underline on NavLink */
+.nav-link-underline {
+    position: relative;
+    text-decoration: none;
+}
+
+.nav-link-underline::after {
+    content: '';
+    position: absolute;
+    width: 100%;
+    transform: scaleX(0);
+    height: 2px;
+    bottom: -4px; /* Adjust position of the line */
+    left: 0;
+    background-color: #005CB9; /* secondary color */
+    transform-origin: bottom right;
+    transition: transform 0.25s ease-out;
+}
+
+.nav-link-underline:hover::after {
+    transform: scaleX(1);
+    transform-origin: bottom left;
+}
+.animated-gradient-bg {
+    background: linear-gradient(-45deg, #102A55, #1C355E, #005CB9);
+    background-size: 400% 400%;
+    animation: gradient 15s ease infinite;
+}
+
+@keyframes gradient {
+    0% {
+        background-position: 0% 50%;
+    }
+    50% {
+        background-position: 100% 50%;
+    }
+    100% {
+        background-position: 0% 50%;
+    }
+}
+.text-white-imp{
+    color: white !important;
+}
+
+.btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.75rem 1.5rem; /* 12px 24px */
+    border-radius: 9999px; /* rounded-full */
+    font-weight: 600; /* semibold */
+    border: 2px solid transparent;
+    transition: all 0.3s ease;
+    transform-origin: center;
+}
+
+.btn:hover {
+    transform: scale(1.05);
+    box-shadow: 0 4px 15px rgba(0, 0, 0, 0.1);
+}
+
+/* Primary Button (Green Accent) */
+.btn-primary {
+    background-color: #00AE42; /* accent */
+    color: white;
+}
+.btn-primary:hover {
+    background-color: #008c35; /* accent-hover */
+}
+
+/* Secondary Button (Blue) */
+.btn-secondary {
+    background-color: #005CB9; /* secondary */
+    color: white;
+}
+.btn-secondary:hover {
+    background-color: #102A55; /* primary */
+}
+
+/* Ghost Button (Outlined) */
+.btn-ghost {
+    background-color: transparent;
+    border-color: #A0AEC0; /* gray-400 */
+    color: #4A5568; /* text-secondary */
+}
+.btn-ghost:hover {
+    background-color: #F7F9FC; /* light-bg */
+    border-color: #4A5568; /* text-secondary */
+}
+/* --- Custom Tab Button Styles --- */
+.tab-btn {
+    display: inline-block;
+    padding: 0.625rem 1.5rem; /* 10px 24px */
+    border-radius: 0.5rem; /* rounded-lg */
+    font-weight: 600; /* semibold */
+    border: 2px solid #D1D5DB; /* border-gray-300 */
+    background-color: white;
+    color: #1C355E; /* primary color */
+    transition: all 0.3s ease;
+    text-decoration: none;
+}
+
+.tab-btn:hover {
+    border-color: #1C355E; /* primary color on hover */
+}
+
+.tab-btn.active {
+    background-color: #1C355E; /* primary bg */
+    color: white;
+    border-color: #1C355E; /* primary border */
+}
+/* --- Custom Action Button Styles --- */
+.action-btn {
+    display: inline-flex;
+    align-items: center;
+    justify-content: center;
+    padding: 0.5rem 1.5rem; /* 8px 24px */
+    border-radius: 0.5rem; /* rounded-lg */
+    font-weight: 700; /* bold */
+    border: 2px solid transparent;
+    transition: all 0.2s ease-in-out;
+    text-decoration: none;
+    white-space: nowrap;
+}
+
+.action-btn:hover {
+    transform: translateY(-2px);
+    box-shadow: 0 4px 12px rgba(0, 0, 0, 0.1);
+}
+
+/* Green "Apply" Button */
+.action-btn-apply {
+    background-color: #00AE42; /* accent */
+    color: white;
+}
+.action-btn-apply:hover {
+    background-color: #008c35; /* accent-hover */
+}
+
+/* Blue "Pre-apply" Button */
+.action-btn-preapply {
+    background-color: #005CB9; /* secondary */
+    color: white;
+}
+.action-btn-preapply:hover {
+    background-color: #102A55; /* primary */
+}
+
+/* Text link for "View Details" */
+.action-btn-details {
+    font-weight: 600; /* semibold */
+    color: #005CB9; /* secondary */
+    text-decoration: none;
+}
+.action-btn-details:hover {
+    text-decoration: underline;
+}
+/* Custom styles for blog post content */
+.prose h2, 
+.prose h3,
+.prose h4 {
+  color: #102A55; /* Uses the 'primary' theme color */
+}
+/* --- Custom FAQ Sidebar Button Styles --- */
+.sidebar-btn {
+    width: 100%;
+    display: flex;
+    align-items: center;
+    gap: 0.75rem; /* 12px */
+    padding: 0.75rem; /* 12px */
+    border-radius: 0.5rem; /* 8px */
+    font-weight: 600; /* semibold */
+    text-align: left;
+    color: #4A5568; /* text-secondary */
+    transition: all 0.2s ease-in-out;
+    border: none;
+    background-color: transparent;
+}
+
+/* Icon color for the inactive state */
+.sidebar-btn svg {
+    color: #005CB9; /* secondary color */
+}
+
+.sidebar-btn:hover {
+    background-color: #E5E7EB; /* gray-200 */
+    color: #102A55; /* primary text color */
+}
+
+/* Styles for the active button */
+.sidebar-btn.active {
+    background-color: #005CB9; /* secondary color */
+    color: white;
+    box-shadow: 0 4px 12px rgba(0, 92, 185, 0.25);
+}
+
+/* Icon color for the active state */
+.sidebar-btn.active svg {
+    color: white;
+}
+.w-screen-custom {
+    width: 99.09vw;
+}
+/* Add this for the new animated body background */
+.animated-body-gradient {
+    background: linear-gradient(-45deg, #ffffff, #f7f9fc, #ffffff, #eef4ff);
+    background-size: 400% 400%;
+    animation: gradient 25s ease infinite;
+}

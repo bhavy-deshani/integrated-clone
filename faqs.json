@@ -1,0 +1,1221 @@
+{
+  "Equity": [
+    {
+      "question": "What is DigiTrade A/c?",
+      "answer": "It is a Trading cum Demat A/c"
+    },
+    {
+      "question": "What are all the Charges to open DigiTrade A/c",
+      "answer": "DigiTrade A/c is completely FREE, and we offer a complimentary Demat A/c with every DigiTrade A/c opened."
+    },
+    {
+      "question": "How to open a DigiTrade A/c?",
+      "answer": "Your DigiTrade A/c [Trading cum Demat A/c] can be opened online in less than 10 minutes through our Mobile App/Web portal."
+    },
+    {
+      "question": "Documents needed for A/c opening",
+      "answer": "PAN, Aadhaar, Bank Statement/Cheque Leaf, Your photograph through a Selfie & scanned Signature on your Mobile/Laptop/PC."
+    },
+    {
+      "question": "Steps to open the A/c",
+      "answer": "Visit our Website, www.integratedindia.in, click on Open DigiTrade A/c and follow the steps further. Alternatively, you can download iInvest Mobile App & start your Journey in opening DigiTrade A/c"
+    },
+    {
+      "question": "What is KYC?",
+      "answer": "KYC is an acronym for “Know Your Customer” and is a term used for Customer Identification Process as a part of Client Onboarding with any financial entity."
+    },
+    {
+      "question": "What is Central KYC?",
+      "answer": "Central KYC Registry (CKYCR) is a centralized repository of KYC records of customers in the financial sector through an entity substantially owned and controlled by Central Government to receive, store and safeguard the KYC records of a client in digital form."
+    },
+    {
+      "question": "How can I know about the trades executed in the Exchange?",
+      "answer": "How can I know about the trades executed in the Exchange? - For the Trades done through offline, you will receive SMS on your registered mobile number & contract notes on your registered email ID with all the details of the transactions."
+    },
+    {
+      "question": "How to apply for IPO through online/mobile app?",
+      "answer": "You can login to our Mobile App “iInvest” or web https://integrated.investments/login & apply for an IPO."
+    },
+    {
+      "question": "How do I get my user ID and password?",
+      "answer": "Customer ID is the login ID. It will be communicated to you once the account is opened through email. Password will be sent through a separate mail."
+    },
+    {
+      "question": "How can I see account balance/statement online?",
+      "answer": "To view or download the financial ledger and contract notes through Back-office, follow these steps: 1. Click on My Account. 2. Click on My Back-office → Show reports. 3. Click on Financial Statement → Refresh to view the statement and current balance. To download the statement, click on the 'Print' icon."
+    },
+    {
+      "question": "What are trading hours or market timings?",
+      "answer": "For NSE Cash, BSE Cash, and NSE F&O, trading hours are from 9:15 am to 3:30 pm. Capital Markets operate from Monday to Friday and are closed on Saturdays and Sundays."
+    },
+    {
+      "question": "How can I check Bank, DP account details, and trades online?",
+      "answer": "All the above information is available in your login. Use your User ID and secured password to access the same."
+    },
+    {
+      "question": "How to convert my trading account from offline to online and vice versa?",
+      "answer": "You may contact our nearest branch office and request conversion from offline to online or vice versa."
+    },
+    {
+      "question": "How can I see/verify the fund transfer success status online?",
+      "answer": "Log in to your account and select Fund Transfer/MF/Demat/NPS Payment report to see the transaction status. You can also verify this through Funds View - Funds transferred during the day in your online login."
+    },
+    {
+      "question": "How to withdraw funds/payout from my account online?",
+      "answer": "Log in to our trading portal, select My Account, then Fund Withdrawal → Enter the amount → Click Request for withdrawal. Requests received before 4 pm will be processed the same day and credited to your bank account. Requests after 4 pm will be processed on the next working day."
+    },
+    {
+      "question": "Why is my payout/withdraw funds not processed?",
+      "answer": "Reasons for rejection include insufficient balance, incomplete settlement process, or missing bank details (IFSC/MICR/Beneficiary)."
+    },
+    {
+      "question": "Can I use the mobile app to withdraw/add funds?",
+      "answer": "Yes, you can use the mobile app to withdraw or add funds to your trading account."
+    },
+    {
+      "question": "Can I issue a cheque/DD for my trades?",
+      "answer": "Yes, you can issue cheques from your registered bank account, but exposure will be available only after cheque realization. DDs are not accepted as per compliance policy."
+    },
+    {
+      "question": "What is pledging of shares?",
+      "answer": "You can initiate a pledge on the FREE holdings in your Demat account. Place a pledge request through your online login. You will receive a link from NSDL via your registered email ID and mobile number. Complete the process by filling your PAN number, confirming the scrip name and quantity, and authenticating with the OTP from NSDL."
+    },
+    {
+      "question": "Is it safe to pledge shares?",
+      "answer": "Yes, pledged shares remain in your Demat account with a 'Pledged' status instead of 'Free'. It is as secure as other shares in your account."
+    },
+    {
+      "question": "When am I supposed to pay for my purchases?",
+      "answer": "The settlement cycle is T+1 day. You must pay by T+1 day to receive shares in your Demat account. Delayed payments result in auto-pledge and additional charges. No payment by T+1+4 days will result in share liquidation by RMS on T+1+5 days."
+    },
+    {
+      "question": "How can I lodge my grievances/complaints?",
+      "answer": "Send an email from your registered email ID to customercare@integratedindia.in. Our customer care executives will respond promptly."
+    }
+  ],
+  "Demat": [
+    {
+      "question": "What is a depository?",
+      "answer": " A depository can be compared to a bank. A depository holds securities (like shares, debentures, bonds, Government Securities, units etc.) of investors in electronic form. Besides holding securities, a depository also provides services related to transactions in securities."
+    },
+    {
+      "question": "What are the benefits of converting securities to demat mode?",
+      "answer": " The benefits of participation in a depository are:<ol type=\"I\"><li>Immediate transfer of securities.</li><li>Elimination of risks associated with physical certificates such as bad delivery, fake securities, etc.</li><li>Reduction in paperwork involved in transfer of securities.</li><li>Reduction in transaction cost.</li><li>Nomination and change in address recorded with us gets registered electronically with all companies in which investor holds securities, eliminating the need to correspond with each of them separately.</li><li>Dividends will directly be credited in the registered bank account electronically.</li><li>Transmission of securities is done eliminating correspondence with companies.</li><li>Convenient method of consolidation of folios/accounts.</li><li>Holding investments in equity, debt instruments and Government securities in a single account.</li><li>Automatic credit of shares in demat account, arising out of split / consolidation / merger etc.</li></ol>"
+    },
+    {
+      "question": "What is KYC?",
+      "answer": " KYC means Know Your Customer. Client needs to submit and record their identity by submitting the Identity proof, Address proof, PAN, Cancelled cheque, In Person Verification. It is mandatory to establish the identity of the applicant at the time of opening account as per SEBI guidelines. This is done by our staff by verifying the affixed photograph on account opening form and the photo seen on document on Aadhaar/Passport etc. with the person seeking to open the account. For Joint account holders, the ’in-person verification’ is required for all the holders."
+    },
+    {
+      "question": "Can I open more than one demat account?",
+      "answer": " Yes, one can open more than one demat account either with the same DP or with other DP."
+    },
+    {
+      "question": "Why should I give my bank account details at the time of account opening?",
+      "answer": " Providing bank account details at the time of demat account opening is mandatory. These bank details are communicated to issuer companies / RTAs by NSDL for the purpose of crediting any amount payable to you (such as dividend, interest or maturity payment or redemption amount) directly in your bank account. It is therefore suggested that you provide details of your active bank account in the account opening form. Later, in case of change therein, please remember to update the new bank by submitting a request along with cancelled cheque leaf. You can also contact the branch network for any help."
+    },
+    {
+      "question": "What is dematerialisation?",
+      "answer": " Dematerialisation is the process by which physical certificates of securities are converted into securities in electronic form by way of credit in investor's demat account held with a DP. Dematerialisation is change in form of holding; it does not result into change of ownership."
+    },
+    {
+      "question": "Can my electronic holdings be converted back into paper certificates?",
+      "answer": " Yes. If you wish to get back your securities in physical form, you need to submit 'Rematerialisation Request Form' in prescribed format. After necessary checks, it will be forwarded electronically to the concerned Issuer company / RTA. The company / RTA will print the certificates and dispatch the same to you directly. You should check the rematerialisation charges before submitting the request."
+    },
+    {
+      "question": "What is the meaning of 'Nomination'?",
+      "answer": " Nomination is a simple process by which a holder of securities communicates his / her preference regarding who should receive these securities in case of his / her death at the time of account opening. Nominees can be changed or opting out of nomination can be done at any point of his lifetime. Minors having a demat a/c cannot nominate."
+    },
+    {
+      "question": "Who can nominate?",
+      "answer": " Nomination can be made only by individuals including NRIs holding demat account singly or jointly. Non-individual holders like society, trust, body corporate, partnership firm, HUF (Hindu Undivided Family) Power of Attorney holder cannot nominate."
+    },
+    {
+      "question": "Can there be more than one nominee?",
+      "answer": " Yes, at present up to three nominations can be made for one demat account. In case, two or three nominees are mentioned, then it is also required to mention the proportion (%) in which various securities are desired to be transmitted upon death of the account holder."
+    },
+    {
+      "question": "Is it necessary to have nominee in the demat account?",
+      "answer": " Nomination is made mandatory for demat account by SEBI. However, if you do not wish to mention any nominee at the time of account opening, you are required to state that ''I/We do not wish to make a nomination'' through a separate Opt-out form."
+    },
+    {
+      "question": "What does transmission mean in relation to demat accounts?",
+      "answer": " Transmission is the process of law by which securities belonging to a deceased account holder are transferred to surviving joint holder(s) / legal heirs / nominee of the deceased account holder. Process of transmission in case of dematerialised holdings is convenient as the transmission formalities for all securities held in a demat account can be completed by submitting the requisite documents to us. There is no need to approach various companies for this purpose, as is required when securities are held in physical form. For details and forms kindly contact the branch."
+    },
+    {
+      "question": "What are 'Market Trades' and 'Off Market Trades'?",
+      "answer": " Any trade settled through a clearing corporation is termed as a 'Market Trade'. These trades are done through stockbrokers on the platform of a recognized stock exchange. An 'Off Market Trade' is one which is settled directly between the two parties/individual, without the involvement of clearing corporation."
+    },
+    {
+      "question": "What is 'Inter Depository transfer'? Is it possible to transfer any ISIN to other depository?",
+      "answer": " Transfer of securities from a demat account held with NSDL to another demat account held with CDSL is known as 'Inter Depository Transfer' (IDT) IDT is possible for those ISINs which are active in both the depositories."
+    },
+    {
+      "question": "What is meant by market type and settlement number?",
+      "answer": " On every stock exchange, various transactions happen under different trade windows. These windows are identified by a distinct combination of a market type and a settlement number. Each day is separate trade day and is allotted a settlement no. on a rolling basis. It is important that you mention correct market type and settlement number (together said to be settlement details in depository system) in the delivery instruction slip so that your pay-in obligations are settled correctly. These details can be found in the contract note issued by the broker."
+    },
+    {
+      "question": "What is the meaning of acceptance of instruction slip on 'At client's risk' basis by DP and what is its significance?",
+      "answer": " We have timelines fixed for submission of delivery instruction slips. If it happens that your instruction slip reaches us after such deadline time, we will accept it with limited liability for its execution in the depository system. If for some reason, we are unable to execute the late received instruction in depository system successfully, and this results into client failing to meet its pay-in obligation, leading to financial loss (auction charges etc.) we cannot be held liable for such loss."
+    },
+    {
+      "question": "What is meant by 'Reason / Purpose' and 'Consideration' in respect of off market transfers?",
+      "answer": " As per SEBI's guidelines, the reason or purpose for which the off-market transfer is undertaken and consideration for such transfer, needs to be mentioned on the delivery instruction slip submitted for such transfer. There are various options given in the DIS booklet for 'Reason / Purpose'. You need to select the appropriate one and mention it on the DIS. If the Reason / Purpose of the transfer is 'off market sale' then in addition to amount of consideration, you need to mention the following details in separate annexure - 1. Date of payment. 2. Mode of payment (cash, cheque, or electronic payment) 3. In case mode of payment is cheque or electronic payment, transferee's name, bank account number, bank name, transaction reference number for electronic payments or cheque number for cheque payments are required."
+    },
+    {
+      "question": "What should I do if I want to pledge shares held in my demat account for availing loan against securities facility offered by my bank?",
+      "answer": " The procedure is as follows: You need to arrive at a deal with the bank in terms of loan amount, tenure, rate of interest and kind of securities offered as collaterals, etc. The commercial aspects of such deal are subject matter of mutual negotiation and hence outside the purview of Depository. Both of you (pledgor) and bank / lender (pledgee) must have demat account with the same depository (with same or different DPs) You as pledgor need to initiate the pledge by submitting a duly filled up ‘Pledge Initiation Instruction Slip’ to us. Once we process your instruction, the details can be seen (or searched) by the DP of the bank / lender (pledgee) Then Pledgee needs to give duly filled in ‘Pledge Confirmation Instruction Slip’ to its DP. (Alternatively, pledgee may opt to have automatic pledge confirmation facility in its demat account) Upon execution of such instruction, the pledge will be created in the depository system."
+    },
+    {
+      "question": "What is the effect of creation of pledge on the securities?",
+      "answer": " Once the pledge instruction is confirmed in depository system, the underlying securities are blocked in the demat account of pledgor. Until this block remains, pledgor is disabled from disposing of those securities."
+    },
+    {
+      "question": "After repayment of the loan taken, how should I get back my pledge securities as free balance in my demat account?",
+      "answer": " Upon repayment of loan, pledgor should submit a duly filled in ‘Pledge Closure Initiation Slip’ to us. Once executed, the information is forwarded to DP of the pledgee. The pledgee then may submit ‘Pledge Closure Confirmation Instruction’ to its DP. (Alternatively, the pledgee may give unilateral instruction to its DP to close the pledge without waiting for request from the pledgor) Once pledge is closed, the block created on the underlying securities is removed and they become available once again for disposal by the erstwhile pledgor."
+    },
+    {
+      "question": "Who will receive dividend on the pledged securities?",
+      "answer": " The pledgor continues to be the beneficial owner of the underlying securities during the period of pledge. Therefore, all the corporate benefits declared by the company during this period belong to pledgor. The pledgee will get the benefits if pledge is invoked and on record date, the shares remain in pledgee’s account."
+    },
+    {
+      "question": "How will the distribution of bonus shares for pledged shares happen?",
+      "answer": "If the shares are in pledged status on the record date, bonus shares are credited to pledgor’s account with pledge marked in favour of the pledgee. Later when the pledge is closed, all the shares (including the bonus) will be credited to the pledgor’s account as free balances. In case of invocation of pledge, all the shares (including the bonus) will be moved to pledgee’s account."
+    },
+    {
+      "question": "What should I do if there is any discrepancy in my account statement?",
+      "answer": "In case of any discrepancy in the account statement, you must immediately contact us. If the discrepancy cannot be resolved, you should approach NSDL. Details to contact and escalation matrix were available in our website."
+    },
+    {
+      "question": "What is meant by Freezing the account? How can I do this?",
+      "answer": "To prevent any undesired transaction happening in the account, demat account holder may opt to freeze his / her demat account by submitting a written request to us. The following types of freezes are available: - Freeze for debits only: A demat account holder may freeze the account only for debits by submitting a freeze instruction to us. However, during the period of freeze, the account holder will continue to receive credits like bonus or credits arising out of any other corporate action. - Freeze for debits as well as credits: An account holder may freeze the account for debits as well as credits. No debits and credits can be made in the account unless the account holder issues unfreeze instruction. This facility is beneficial to clients who do not use their account for a prolonged period. By freezing their account for debits and credits, they can avoid undue credits to their accounts in addition to preventing debits. - Freeze particular ISIN(s) in the account: An account holder may freeze a particular ISIN(s) (security of a specific company) either for ‘debit’ or ‘debit & credit,’ without freezing the whole account. If this type of freeze facility is used, all other securities in the account can be debited or credited but the securities under the specific ISIN(s) will be frozen for ‘debit’ or ‘debit & credit’ respectively. The client will be able to use other securities lying in its demat account and receive credits in the ISIN which has been frozen only for debit. - Freeze a specific number of securities held under an ISIN in an account: An account holder may freeze a specific quantity of a specific security in an account."
+    },
+    {
+      "question": "Can a demat account be closed?",
+      "answer": "Yes, Demat accounts can be closed after disposing all the securities in the demat account. Clients can submit the request for closure signed by all the holders."
+    },
+    {
+      "question": "How does NSDL ensure that its DPs adhere to the stipulated requirements?",
+      "answer": "All the DPs are subjected to NSDL inspection at least once in a year. In addition, they need to engage an independent and qualified auditor to undertake audit of their depository operations. Report of such audit should be forwarded to NSDL, twice a year. SEBI also inspects DPs."
+    },
+    {
+      "question": "Who is a Non-Resident Indian [NRI]?",
+      "answer": "Non-Resident Indian [NRI] means a person resident outside India who is a citizen of India or is a person of Indian origin."
+    },
+    {
+      "question": "Who is a person resident outside India?",
+      "answer": "Under the Foreign Exchange Management Act, 1999 [FEMA], a person who is NOT a person resident in India, as defined under Section 2 (v) of the Act is considered as a person resident outside India. The most important change in definition [since FERA 1973] is that the citizenship of a person no longer has a bearing in determination of residential status."
+    },
+    {
+      "question": "Who is a person of Indian origin?",
+      "answer": "Person of Indian Origin (PIO) means a citizen of any country other than Bangladesh or Pakistan, if: - He at any time held an Indian passport; or - He or either of his parents or any of his grandparents was a citizen of India by virtue of the Constitution of India or the Citizenship Act, 1955; or - The person is a spouse of an Indian citizen, or a person referred to in sub-clause [a] or [b]. Investment by PIO in Indian Securities is treated the same as the investment by non-resident Indians and requires the same approvals and enjoys the same exemptions."
+    },
+    {
+      "question": "Does an NRI need any RBI permission to open a demat account?",
+      "answer": "No permission is required from RBI to open a NRI - Non repatriable demat account. However, credits and debits from the demat account may require general or specific permissions, from designated authorised dealers."
+    },
+    {
+      "question": "Can I change details of my bank account registered in demat account?",
+      "answer": "Yes. You may change bank account details registered in your demat account any time by submitting a written request to us. You will also need to provide supporting documents for your new bank account, such as a copy of passbook, account statement, or cancelled cheque leaf containing your name, bank account number, bank name, MICR code, and IFSC."
+    },
+    {
+      "question": "How do I change my address in my demat account?",
+      "answer": "You can change your address in the demat account by submitting a written request to us. Such a request should be signed by all the joint holders if the account is jointly held. Following documents should be submitted along with the request: - Latest Transaction Statement of the demat account (not required if the client visits personally) - Self-attested copy of any proof of identity document like PAN card, Passport, Voter’s identity card, Aadhaar card, Driving license, NREGA card. - Self-attested copy of any document as proof of new address: Passport, Voter’s identity card, Aadhaar card, Driving license. You would be required to produce the original document for the purpose of verification of photocopy. You should sign the application once again in the presence of our staff. Once the request for change in address is processed in the depository system, an email is sent by NSDL to the account holder(s) informing the update."
+    },
+    {
+      "question": "How do I change my signature in demat account?",
+      "answer": "You may change your signature in demat account by following the procedure mentioned below: - Submit a specimen updation form to us mentioning the reason for change in signature. - New signature should be attested by your banker registered in the demat account. - You should visit any of our nearest branch personally and produce valid proof of identity. - You should affix your new signature in presence of our official. - An authorised official of us shall verify the identity proof with the proof and photograph that were furnished at the time of opening of account. If found satisfactory, we will make necessary changes in depository system."
+    }
+  ],
+  "NPS": [
+    {
+      "question": "What is National Pension System?",
+      "answer": "National Pension System (NPS) is a pension cum investment scheme launched by Government of India to provide old age security to Citizens of India. It brings an attractive long-term saving avenue to effectively plan your retirement through safe and regulated market-based return. The Scheme is regulated by Pension Fund Regulatory and Development Authority (PFRDA) National Pension System Trust (NPST) established by PFRDA is the registered owner of all assets under NPS."
+    },
+    {
+      "question": "Who all are eligible to join NPS? (PFRDA)",
+      "answer": "Any Indian Citizen (resident or non-resident) and Overseas Citizen of India (OCI)"
+    },
+    {
+      "question": "Why should I open NPS Account?",
+      "answer": [
+        "Opening NPS account has its own advantages as compared to other pension product available. Below are few features which make NPS different from others:",
+        "Low-cost product",
+        "Tax breaks for Individuals, Employees and Employers",
+        "Attractive market linked returns",
+        "Easily portable",
+        "Professionally managed by experienced Pension Funds",
+        "Regulated by PFRDA, a regulator set up through an act of Parliament."
+      ]
+    },
+    {
+      "question": "Can I open multiple NPS accounts?",
+      "answer": "No, opening multiple NPS accounts for an individual is not allowed under NPS. However, an Individual can have one account in NPS and another account in Atal Pension Yojana."
+    },
+    {
+      "question": "Can I open an NPS account jointly with my spouse, child, relative, etc.?",
+      "answer": "No, opening multiple NPS accounts for an individual is not allowed under NPS. However, an Individual can have one account in NPS and another account in Atal Pension Yojana."
+    },
+    {
+      "question": "What are the types of accounts in NPS?",
+      "answer": [
+        "Under NPS account there are two types of accounts – Tier I & Tier II.",
+        "Tier-I is the Individual Pension Account, which is the default pension account having all the tax incentives under Income Tax Act.",
+        "Tier-II is an optional investment account available to a subscriber having an active Tier-I account. This account has no withdrawal restrictions and tax benefits. Tier-II is not a Pension Account."
+      ]
+    },
+    {
+      "question": "What are the benefits of NPS?",
+      "answer": [
+        "The benefits of NPS are.",
+        "It is voluntary - A Subscriber can contribute at any point of time in a Financial Year and change the amount he wants to set aside and save every year.",
+        "It is simple - Subscriber is required to open an account with any one of the POPs (Point of Presence) or through Integrated (link)",
+        "It is flexible - Subscribers can choose their own investment options, pension fund, and see their money grow.",
+        "It is portable - Subscribers can operate their account from anywhere, even if they change the city and/or employment.",
+        "It is regulated - NPS is regulated by PFRDA, with transparent investment norms and regular monitoring and performance review of fund managers by NPS Trust."
+      ]
+    },
+    {
+      "question": "Who will invest my money in NPS?",
+      "answer": "Pension Funds are responsible for investing contributions, accumulating them and managing pension corpus through various schemes under National Pension System in accordance with the provisions of the PFRDA Act."
+    },
+    {
+      "question": "What are the tax benefits under NPS?",
+      "answer": [
+        "Tax Benefit available to Individual: Any individual who is Subscriber of NPS can claim tax benefit under Sec 80 CCD (1) with in the overall ceiling of Rs.1.5 lac under Sec 80 CCE. Exclusive Tax Benefit to all NPS Subscribers u/s 80CCD (1B): An additional deduction for investment up to Rs.50,000 in NPS (Tier I account) is available exclusively to NPS subscribers under subsection 80CCD (1B) This is over and above the deduction of Rs.1.5 lakh available under section 80C of Income Tax Act, 1961. Tax Benefits under the Corporate Sector:",
+        "a. Corporate Subscriber:Additional Tax Benefit is available to Subscribers under Corporate Sector, u/s 80CCD (2) of Income Tax Act. Employer's NPS contribution (for the benefit of employee) up to 10% of salary (Basic + DA) is deductible from taxable income, up-to 7.5 Lakh.",
+        "b. Corporates: Employer’s Contribution towards NPS up to 10% of salary (Basic + DA) can be deducted as ‘Business Expense’ from their Profit & Loss Account.",
+        "Please note: Tax benefits are applicable for investments in Tier I account only."
+      ]
+    },
+    {
+      "question": "What will be the investment proof to avail the tax benefit under NPS?",
+      "answer": "The Subscriber can submit the Transaction Statement as an investment proof. Alternatively, Subscriber from \"All Citizens of India\" can also download the receipt of voluntary contribution made in Tier I account for the required financial year from NPS account log-in. It can be downloaded from the sub menu \"Statement of Voluntary Contribution under National Pension System (NPS)\" available under main menu \"View\" in NPS account log-in."
+    },
+    {
+      "question": "What are other tax benefits under NPS apart from available u/s 80CCD?",
+      "answer": [
+        "Apart from tax benefits available under 80CCD, below are the other tax benefits available under NPS:",
+        "a. Tax benefits on Partial withdrawal: Subscriber can partially withdraw from NPS Tier I account for specified purposes. Amount received from partial withdrawal are tax exempt u/s 10 (12B) of Income Tax Act.",
+        "b. Tax benefit on Annuity Purchase: Amount invested in the purchase of Annuity is fully exempt from tax. However, annuity income that you receive in the subsequent years will be subject to income tax.",
+        "c. Tax benefit on lump sum withdrawal: Up to 60% of the total corpus withdrawn in a lump sum is exempt from tax."
+      ]
+    },
+    {
+      "question": "What are the tax benefits on investments under Tier II account?",
+      "answer": "There is no tax benefit on investment towards Tier II NPS Account."
+    },
+    {
+      "question": "Where can I open NPS account?",
+      "answer": [
+        "Opening an NPS account is quite easy, it can be opened through Online or by visiting your nearest Point of Presence.",
+        "Through POP: The applicant is required to submit a duly filled in Subscriber Registration Form (CSRF) along with supporting KYC documents to the branch of POP called as POP-SP or visit the online portal of the respective POPs.",
+        "Online (through Integrated): The applicant needs to visit the website of Integrated (https://www.integratedindia.in/NPS-Container.aspx?Open) and register himself/herself through Aadhaar or Digi Lockers. After filling up other necessary details and payment of the initial contribution, PRAN will be generated online. If you select the \"eSign\" option, your account will be opened paperless (you are not required to send the physical copy of the form to Integrated POP)"
+      ]
+    },
+    {
+      "question": "Who is POP/POP-SP? What is the role of POP/POP-SP under NPS?",
+      "answer": "PFRDA has appointed entities known as Points of Presence (POPs) to extend customer interface for all citizens of India, who wish to open an NPS account. POP is the first point of interaction between the subscriber and the NPS architecture. Point of Presence (POP) shall perform the functions relating to registration of subscribers, undertaking Know Your Customer (KYC) verification, receiving contributions and instructions from subscribers, and transmission of the same to designated NPS intermediaries. The authorized branches of POP for NPS services are called POP-SP (Points of Presence-Service Provider)"
+    },
+    {
+      "question": "What are I PIN and T PIN?",
+      "answer": [
+        "I-PIN is a password to access your NPS account/mobile App. Through your NPS account log-in, you can view details of NPS account and initiate various service requests.",
+        "T PIN can be used to access your NPS account through the toll-free helpline (1-800-222080) The Bilingual 'Interactive Voice Response' (IVR) service helps you to access your account details and avail various services including request for Transaction Statement to your registered email ID. You can also speak to Customer Care Executive for any specific query. You can reset the T PIN through the option available in IVR."
+      ]
+    },
+    {
+      "question": "How can a Subscriber contribute to NPS?",
+      "answer": "contribute to Tier I and Tier II accounts, the Subscriber needs to deposit the contribution amount along with a duly filled NCIS (NPS Contribution Instruction Slip) to any POP-SP or alternatively can visit the Integrated website to make contributions to NPS."
+    },
+    {
+      "question": "What are the minimum contribution criteria under NPS?",
+      "answer": [
+        "A Subscriber is required to make an initial contribution (a minimum of Rs.500 for Tier I and a minimum of Rs.1000 for Tier II) at the time of registration. Subsequently, a Subscriber can make contributions subject to the following conditions:",
+        "Tier I:",
+        "Minimum amount per contribution - Rs.500",
+        "Minimum contribution per Financial Year - Rs.1,000",
+        "Minimum number of contributions in a Financial Year – one",
+        "Over and above the mandated limit of a minimum of one contribution in Tier I, a Subscriber may decide on the frequency of the contributions across the year as per   his / her convenience.",
+        "Tier II:",
+        "Minimum amount per contribution - Rs.250",
+        "No minimum balance required."
+      ]
+    },
+    {
+      "question": "When will the units be credited to my NPS account?",
+      "answer": "Units will be credited to the subscriber’s account on the day contribution is invested by the PFM (Pension Fund Manager) It takes T+2 days to get unit credited in subscriber account, wherein T being the date of fund receipt at Trustee bank."
+    },
+    {
+      "question": "How can a Subscriber change NPS account details?",
+      "answer": [
+        "A Subscriber can request for change/correction in personal details, nomination details, bank details, reissue of I-PIN/T-PIN/PRAN Card to the POP-SP. A Subscriber can also update his/her photograph and signature by submitting a written request to the POP-SP.",
+        "Subscriber needs to submit the following forms for change request:",
+        "Form UOSS2 - for change in personal or nomination details or request for re-issue of T-PIN/I-PIN or Reprint of PRAN card.",
+        "Form S3 - Request for change in Scheme Preference or Switch or change of employment.",
+        "Form S7 - Request for change in Photograph and/or Signature"
+      ]
+    },
+    {
+      "question": "How can a Subscriber change his scheme preference?",
+      "answer": [
+        "Apart from the submission of the S3 form to the associated POP-SP, the Subscriber can also change Scheme preference through their NPS account log-in. You can follow the simple steps as given below to change the scheme preference online:",
+        "a. Go to your NPS account log-in",
+        "b. Click on the sub menu \"Scheme preference Change\" under the main menu \"Transaction\"",
+        "c. Select Tier type and change the Scheme preference as you intended to do."
+      ]
+    },
+    {
+      "question": "How many nominees are allowed under NPS? Can a minor be a nominee?",
+      "answer": "Subscriber is allowed to register up to three nominees in NPS. Yes, a minor can be a nominee. In such a case, the Subscriber will be required to provide the guardian's details and date of birth of the minor."
+    },
+    {
+      "question": "How to request for a duplicate PRAN card?",
+      "answer": "In case of loss or damage of PRAN card, the Subscriber needs to submit a duly filled S2 form to the respective POP-SP. After verifying the form, the POP/POPSP will enter and authorize the request in the CRA system. Subsequently, the request is processed by CRA and a fresh PRAN Card is printed and sent to Subscriber's registered address. Alternatively, Subscriber can download ePRAN through their NPS account login."
+    },
+    {
+      "question": "How can I reset I PIN (generate password)?",
+      "answer": [
+        "Subscriber can generate a password by following a few steps even without logging in to their account.",
+        "a. Visit the welcome page for NPS account login",
+        "b. Click on the \"Forgot Password\" link",
+        "c. Select \"Instant Reset I-PIN\"",
+        "d. Enter the minimum details required like PRAN, Date of Birth",
+        "e. Enter a new password of your choice",
+        "Subscriber should select any one of the following options:",
+        "I. Generate OTP: Once the Subscriber selects this option, a One Time Password (OTP) will be sent to the Subscriber's registered Mobile Number/email id. After receiving the same, the Subscriber needs to submit the OTP.",
+        "II. Go to Nodal Office: In this option, the Subscriber needs to print the acknowledgment and handover the same to any POP-SPs for authorization, irrespective of whether the Subscriber is associated with the POP-SP or not. After successful authorization by the POP-SP, the Subscriber can use the new password (provided during the initiation of the request) for login."
+      ]
+    },
+    {
+      "question": "How can I get the Annual Account Statement for my PRAN?",
+      "answer": [
+        "The Annual NPS Account Statement (as of March 31st of every year) is sent to the registered address of the Subscriber. However, access to your Transaction statement is not only limited to this. A Subscriber can also get the transaction statement:",
+        "a. By accessing the NPS account through PRAN and password",
+        "b. Subscribers can also view Statement of Holding through account Log-in",
+        "c. Subscriber can also request for Transaction Statement through Integrated’s Mobile App."
+      ]
+    },
+    {
+      "question": "Can I avail NPS related services online?",
+      "answer": [
+        "Yes, certain services related to NPS can be availed online. These are as follows:",
+        "Change of address (correspondence and permanent)",
+        "Change of scheme preference",
+        "Change of mobile number and email",
+        "Online view of Statement of Holding (SOH)/Transaction (SOT)",
+        "ePRAN card view",
+        "Reprint of PRAN card"
+      ]
+    },
+    {
+      "question": "Where can a Subscriber register a Grievance / compliant?",
+      "answer": [
+        "A Subscriber can register a grievance against any entity under NPS through logging into their account. Alternatively, they can visit the \"Log Your Grievance/Enquiry\" section under the \"Subscriber's Corner\" of this website to log the grievance/query. Through this platform, the Subscriber can register a grievance/query even without having the PRAN Details. On successful registration, a token number will be displayed on the screen for future reference.",
+        "In case a Subscriber needs to register a grievance against the POP-SP, they can send a mail to anand@integratedindia.in;babuk@integratedindia.in. The complaints/grievances will be resolved, and status will be updated within 1 working day."
+      ]
+    },
+    {
+      "question": "How will the Subscriber know the status of the grievance lodged?",
+      "answer": [
+        "When a Subscriber registers a grievance at the CRA website, a unique token number is assigned to each grievance. Subscriber can use that token no. to know about the status of the grievances either through the Call Center or through the CRA website. Please visit \"Log Your Grievance / Enquiry\" section under \"Subscriber's Corner\" to check the status of the grievance lodged."
+      ]
+    },
+    {
+      "question": "What is the escalation mechanism for Grievance resolution?",
+      "answer": [
+        "‒ Escalation Matrix for Grievance redressal - Only for NPS, related to queries/complaints is given at the \"Contact Us\" section of this website. However, Subscriber must follow the process given in Question no. 1 of this section to get grievance registered. For details of Grievance Redressal Policy for Central Recordkeeping Agency under National Pension System, please visit \"Grievance Redressal Policy\" located at \"Log Your Grievance / Enquiry\" section under \"Subscriber's Corner\" of this website."
+      ]
+    },
+    {
+      "question": "When can I withdraw my money from NPS Account?",
+      "answer": [
+        "A subscriber can withdraw from NPS in the following circumstances/conditions:",
+        "Partial Withdrawal - after completion of 3 years, a subscriber can withdraw 25% of his/her own contributions for specific reasons. A subscriber can partially withdraw up to a maximum of 3 times during his/her entire tenure in NPS.",
+        "Premature Withdrawal - after completion of 5 years or before completion of 03 years (if subscriber joined NPS after attaining 60 years of age) a subscriber can withdraw a maximum of 20% of the corpus as lump sum, and a minimum of 80% of the corpus must be utilized for purchasing an annuity plan for receiving the pension. If the accumulated corpus is less than ₹2.5 lakh, the entire corpus is paid as lump sum to the subscriber.",
+        "Normal Withdrawal - on completion of 60 years of age (if subscriber has joined NPS before 60 years of age) or after completion of 03 years (if subscriber has joined NPS after 60 years of age) a subscriber can withdraw a maximum of 60% of the corpus as lump sum, and a minimum of 40% of the corpus has to be utilized for purchasing an annuity plan for receiving the pension. If the accumulated corpus is less than ₹5 lakhs, the entire corpus is paid as lump sum to the subscriber."
+      ]
+    },
+    {
+      "question": "What are the reasons for availing Partial Withdrawal?",
+      "answer": [
+        "Partial Withdrawal is allowed only against the specified reasons such as,",
+        "Higher education of children",
+        "Marriage of children",
+        "For the purchase/construction of residential house.",
+        "For treatment of specified illnesses for Subscriber, Spouse, children.",
+        "Meet medical and incidental expenses arising out of the disability or incapacitation suffered by the Subscriber.",
+        "For Skill development/re-skilling or any other self-development activities",
+        "For Establishment of own venture or any start-up (Only for ’All Citizens’ Sector Subscribers)",
+        "Subscriber also has the option to: -",
+        "(i) Continue in NPS till the age of 75 years or exit any time after such continuance before 75 years.",
+        "(ii) While exiting from NPS, subscriber can,",
+        "defer receiving the lumpsum (60% corpus) till the age of 75 years or withdraw the same in instalments till 75 years",
+        "defer Annuity purchase (40% corpus) till the age of 75 years"
+      ]
+    },
+    {
+      "question": "How do I decide the Annuity Service Provider (ASP) and plan for receiving pension?",
+      "answer": [
+        "Presently the following (15) ASPs are empanelled with PFRDA for providing pension:",
+        "SBI Life Insurance Co. Ltd",
+        "Life Insurance Corporation of India",
+        "Star Union Dai-ichi Life Insurance Co. Ltd",
+        "ICICI Prudential Life Insurance Co. Ltd",
+        "IndiaFirst Life Insurance Co Ltd",
+        "Edelweiss Tokio Life Insurance Co. Ltd",
+        "Bajaj Allianz Life Insurance Co Ltd.",
+        "Canara HSBC Oriental bank of Commerce Life Insurance co Ltd",
+        "Kotak Mahindra Life Insurance Co Ltd.",
+        "Tata AIA Life Insurance Company Limited",
+        "Max Life Insurance Company Limited",
+        "PNB Metlife India Insurance Company Limited",
+        "Aditya Birla SunLife Insurance Company Limited",
+        "Shriram Life Insurance Co. Ltd",
+        "Following are the most common variants of annuity schemes that are available to NPS Subscribers:",
+        "Annuity for Life with Return of Purchase Price - Subscriber will get annuity for lifetime and on death of the Subscriber, payment of annuity ceases & 100% of the purchase price will be returned to the nominee(s)",
+        "Annuity for Life without Return of Purchase Price - Subscriber will get annuity for lifetime and on death of the Subscriber, payment of annuity ceases, and no further amount will be payable.",
+        "Joint Life Annuity with Return of Purchase Price - Subscriber will get annuity for lifetime and on death of the Subscriber, annuity will be payable to Spouse for lifetime. On death of the Spouse, payment of annuity ceases and 100% of the purchase price will be returned to the nominee(s)",
+        "Joint Life Annuity without Return of Purchase Price - Subscriber will get annuity for lifetime and on death of the Subscriber, annuity will be payable to Spouse for lifetime. On death of the Spouse, payment of annuity ceases, and no further amount will be payable.",
+        "NPS - Family Income Option with Return of Purchase Price - Subscriber will get annuity for lifetime and on death of the Subscriber, annuity will be payable to spouse of the Subscriber (if any) for lifetime. On death of Spouse, to dependent mother and then to dependent father of the Subscriber. On death of the last annuitant, payment of annuity ceases and 100% of the purchase price will be returned to the surviving children of the Subscriber and in absence of children, the legal heirs of the subscriber, as applicable."
+      ]
+    },
+    {
+      "question": "How will I receive my pension?",
+      "answer": [
+        "Subscriber will receive pension from the Annuity Service Provider (ASP) according to the Annuity Plan chosen and purchased by the subscriber from the ASP (Insurance Company) and the terms and conditions therein."
+      ]
+    },
+    {
+      "question": "When and how the pension will get started for the Subscriber/Claimant?",
+      "answer": [
+        "The annuity (pension) will be issued by the Annuity Service Provider (ASP)",
+        "On execution of Exit request in CRA, the annuitant’s details (Subscriber/Claimant details) and scanned documents will be shared with ASP as opted by Subscriber/Claimant. If the annuitant’s details and scanned documents are correct, ASP will issue annuity policy.",
+        "If documents uploaded are not sufficient/incorrect or any additional documents required, then ASP may contact Subscriber/Claimant for completion of annuity formalities. Alternatively, if required, Subscriber/Claimant may contact ASP.",
+        "On completion of annuity formalities, ASP will confirm Annuity request online in the CRA system and Funds (Annuity Corpus) will be transferred to ASP for issuance of annuity to Subscriber/Claimant within stipulated timeline."
+      ]
+    },
+    {
+      "question": "Can Subscriber/Claimant change Annuity Service Provider or Annuity type after buying the Annuity?",
+      "answer": [
+        "Once an Annuity is purchased, the option of cancellation or reinvestment with another Annuity Service Provider or in other Annuity scheme shall not be allowed unless the same is within the time limit specified (free look cancellation period as provided in terms of the Annuity contract or specifically provided by the IRDAI) by the Annuity Service Provider."
+      ]
+    },
+    {
+      "question": "What happens if the Subscriber/Claimant dies after purchasing Annuity?",
+      "answer": [
+        "The mode and manner of payment of amount (if any) will depend on the type of Annuity scheme selected by the Subscriber/Claimant while buying the Annuity. Family members of the deceased Annuitant need to contact concerned Annuity Service Provider."
+      ]
+    }
+  ],
+  "NPS Vatsalya": [
+    {
+      "question": "What is NPS Vatsalya?",
+      "answer": "NPS Vatsalya is a contributory pension system under the National Pension System (NPS). Its objective is to create a pensioned society and encourage the empowerment of children by inculcating the habit of saving for retirement from an early age."
+    },
+    {
+      "question": "Who can subscribe to NPS Vatsalya?",
+      "answer": "NPS Vatsalya is open to all citizens of India who are under the age of eighteen years. The account will be opened and operated by the guardian on behalf of the minor."
+    },
+    {
+      "question": "What are the benefits of opening a NPS Vatsalya account?",
+      "answer": "Opening a NPS Vatsalya account provides the child with a head start on saving for retirement and offers valuable financial lessons from an early age. It instils the importance of financial planning and discipline, which can benefit the child throughout their life."
+    },
+    {
+      "question": "How is the NPS Vatsalya account operated?",
+      "answer": [
+        "The account is opened by the natural or legal guardian in the name of the minor.",
+        "The minor is the sole beneficiary of the account.",
+        "A unique Permanent Retirement Account Number (PRAN) is issued in the minor's name.",
+        "The account is operated by the guardian for the exclusive benefit of the minor until they reach the age of majority (18 years)."
+      ]
+    },
+    {
+      "question": "What are the KYC requirements for opening a NPS Vatsalya account?",
+      "answer": [
+        "The KYC norms applicable to the guardian must be in accordance with the standards stipulated by PFRDA.",
+        "In the case of a court appointed legal guardian, a copy of the court order regarding the appointment of the Legal Guardian must be submitted along with the KYC documents."
+      ]
+    },
+    {
+      "question": "What documents of the minor are required for opening a NPS Vatsalya account?",
+      "answer": [
+        "For the minor, the proof of date of birth is required. Acceptable documents include:",
+        "Birth certificate of the minor",
+        "School leaving certificate / Matriculations issued by Higher Secondary Board of respective states, ICSE, CBSE, etc.",
+        " Passport of the minor",
+        "PAN."
+      ]
+    },
+    {
+      "question": "Is a bank account required for opening a NPS Vatsalya account?",
+      "answer": [
+        "The bank account details of the minor or a joint account with the minor are not mandatory for opening the account for Indian residents but will be required at the time of partial withdrawal or exit before the age of 18.",
+        "For non-residents, details of NRE or NRO account are mandatory."
+      ]
+    },
+    {
+      "question": "What happens when the minor attains the age of 18 years?",
+      "answer": [
+        "The account will continue to be operational and will be seamlessly transitioned into a NPS - Tier 1 Account under the All Citizen Model.",
+        "Upon transitioning, the features, benefits, and exit norms of the NPS-Tier I for All Citizen Model will apply.",
+        "A fresh KYC of the subscriber must be carried out within three months of reaching majority. Contributions to the NPS Tier1 Account will be allowed after the submission of fresh KYC."
+      ]
+    },
+    {
+      "question": "Can an NRI or OCI open a NPS Vatsalya account?",
+      "answer": [
+        "The minor must be a citizen of India.",
+        "The guardian can be a Non-Resident Indian (NRI) or Overseas Citizen of India (OCI).",
+        "A separate form is applicable for guardians who are NRIs or OCIs.",
+        "A bank account (NRE or NRO) is mandatory when the guardian is an NRI or OCI."
+      ]
+    },
+    {
+      "question": "Is it required to furnish a nomination while joining the scheme?",
+      "answer": "No, the guardian becomes the nominee under the scheme."
+    },
+    {
+      "question": "How many NPS Vatsalya accounts can I open?",
+      "answer": "The guardian can open a single account (per child) for the minor."
+    },
+    {
+      "question": "Can a guardian who is a NPS subscriber open a NPS Vatsalya account for a minor?",
+      "answer": "Yes, a guardian who is a NPS subscriber can open a NPS Vatsalya account in the name of the minor."
+    },
+    {
+      "question": "What are the minimum and maximum contributions under the NPS Vatsalya account?",
+      "answer": [
+        "The minimum contribution is Rs 1000 per annum, with no upper limit on the maximum contribution.",
+        "The initial contribution required for enrolment under the scheme is Rs 1000."
+      ]
+    },
+    {
+      "question": "What choices do I need to exercise under NPS Vatsalya?",
+      "answer": [
+        "All choices available under the NPS All Citizen model are also available for NPS Vatsalya, including:",
+        "Choice of CRA (Central Recordkeeping Agency): From the registered CRAs with PFRDA.",
+        "Choice of Pension Fund (PF): From the registered PFs with PFRDA",
+        "Choice of Allocation of Funds:",
+        "Auto Choice:",
+        "Conservative Life Cycle Fund (LC25)",
+        "Moderate Life Cycle Fund (LC50) – Default",
+        "Aggressive Life Cycle Fund (LC75)",
+        "Active Choice:",
+        "Equity (E) – Maximum 75%",
+        "Corporate Bonds (C) – Up to 100%",
+        "Government Securities (G) – Up to 100%",
+        "Alternate Assets (A) – Maximum 5%"
+      ]
+    },
+    {
+      "question": "How are the contributions invested in NPS Vatsalya?",
+      "answer": [
+        "The contributions made by the subscriber are invested according to the choices (Pension Fund and Asset allocation) exercised and recorded with CRA, in line with the investment guidelines prescribed by PFRDA for each asset class:",
+        "Asset Class E – Equity shares of Top 200 companies under NSE/BSE in terms of market capitalisation",
+        "Asset Class C – Corporate Bonds/Debentures that are listed and rated not below A,",
+        " Asset Class G – Government securities and State Development Loans, ",
+        "Asset Class A – Alternate Assets. For detailed investment guidelines, refer to the Circulars Section of the PFRDA website."
+      ]
+    },
+    {
+      "question": "How do I know about the performance of my NPS investments?",
+      "answer": "The performance of your NPS investments is available in the Statement of Transactions, which can be accessed online through the subscriber web login or mobile app. Periodic statements are sent by the CRA to the registered email ID of the subscriber, and a physical statement for the financial year is sent to the correspondence address of the subscriber."
+    },
+    {
+      "question": "What happens if I don't make the minimum contribution? Will my account be closed?",
+      "answer": "If the minimum contribution is not received, the account is categorized as 'frozen' and will be activated upon contributing to the account. The NPS account will be closed only when a subscriber submits a request (physical or online) for exit from NPS to a service provider (PoP)."
+    },
+    {
+      "question": "Can I partially withdraw money from the NPS Vatsalya account before 18 years?",
+      "answer": [
+        "Partial withdrawals from your NPS Vatsalya account are allowed to address contingency situations. The reasons/conditions for partial withdrawal include:",
+        "Education of the minor subscriber",
+        "Treatment of specified illnesses of the minor subscriber",
+        "Disability of more than 75% of the minor subscriber.",
+        "A maximum amount of up to 25% of contributions (excluding returns) can be partially withdrawn.",
+        "This facility is available on a declaration basis after a minimum of 3 years from the date of account opening.",
+        "The Partial withdrawal can be made maximum three times till subscriber attains 18 years of age."
+      ]
+    },
+    {
+      "question": "What are the exit options under the scheme?",
+      "answer": [
+        "The subscriber can exit on attainment of age of 18 years.",
+        "On such exit, at least eighty percentage of accumulated corpus available in the account must be utilized for purchase of annuity and remaining balance shall be paid in lump sum.",
+        "In case, the accumulated pension wealth available in the account is equal to or less than a two lakh fifty thousand, or purchase of annuity is not available from empanelled Annuity Service Providers ('ASPs'), the subscriber shall have option to withdraw the entire accumulated pension wealth."
+      ]
+    },
+    {
+      "question": "What happens in case of death before 18 years?",
+      "answer": [
+        "In the event of the minor subscriber's death, the entire accumulated corpus to be paid to the guardian.",
+        "If the guardian registered under the account dies during the account's subsistence, another guardian must be registered on behalf of the minor subscriber by submitting the KYC documents as specified by the PFRDA from time to time.",
+        "In case of death of both the parent, the legally appointed guardian can continue the account with or without making contributions to the account, and upon attainment of 18 years of age, the subscriber can exit from the scheme."
+      ]
+    },
+    {
+      "question": "Whom should I approach if I have a complaint /grievance?",
+      "answer": [
+        "For resolving subscriber grievances, the Authority has notified the PFRDA (Redressal of Subscriber Grievance) Regulations, 2015 and an online platform ‘Central Grievance Management System (CGMS)’ has been hosted for subscriber to lodge grievance online by logging to his/her NPS account.",
+        "A complaint/grievance has to be resolved by the intermediary concerned as early as possible within a maximum period of 30 days of the receipt of the complaint.",
+        "If a subscriber is not satisfied with the resolution provided, he/she can escalate his grievance to the next higher level for resolution and the escalation matrix is as under:"
+      ]
+    }
+  ],
+  "Insurance": [
+    {
+      "question": "What is health insurance?",
+      "answer": "Health insurance is a type of insurance that covers the cost of medical and surgical expenses incurred by the insured individual. It helps individuals to manage the cost of healthcare expenses and provides financial protection against medical emergencies."
+    },
+    {
+      "question": "What are the benefits of having health insurance in India?",
+      "answer": "Health insurance offers several benefits, such as coverage of medical expenses incurred during hospitalization, coverage for pre and post-hospitalization expenses, cashless hospitalization facility, and tax benefits under Section 80D of the Income Tax Act, 1961 (available only if the taxpayer opts for the old tax regime)"
+    },
+    {
+      "question": "What are the types of health insurance plans available in India?",
+      "answer": " The types of health insurance plans available in India include individual health insurance, family health insurance, group health insurance, critical illness insurance, and personal accident insurance."
+    },
+    {
+      "question": "What should I consider before buying health insurance in India?",
+      "answer": "Some of the factors to consider before buying health insurance in India are coverage and benefits, premium and deductibles, network of hospitals and healthcare providers, claim settlement ratio of the insurer, and customer service and support.."
+    },
+    {
+      "question": "How do I choose the right health insurance provider in India?",
+      "answer": "When choosing a health insurance provider in India, consider factors such as the company's reputation, financial stability, claim settlement ratio, customer service, and the types of policies offered. It's also important to compare the features and benefits of different policies to find the one that best meets your needs."
+    }
+  ],
+  "Financial": [
+    {
+      "question": "What are financial consulting firms in India?",
+      "answer": "Financial consulting firms are professional service firms that offer expert advice and guidance on financial matters such as investments, tax planning, and risk management."
+    },
+    {
+      "question": "What are financial advisory companies in India?",
+      "answer": "Financial advisory companies provide expert advice and guidance on financial matters such as investment strategies, retirement planning, and wealth management."
+    },
+    {
+      "question": "What should I look for in the best financial advisory services in India?",
+      "answer": "The best financial advisory services in India should have a team of experienced and qualified professionals, a strong track record of delivering quality services, transparent fee structure, good client reviews, and a customer-centric approach."
+    },
+    {
+      "question": "How can financial advisory and consultancy services help me with retirement planning?",
+      "answer": "Financial advisory and consultancy services can help you with retirement planning by offering expert advice on retirement savings, investment strategies, and income generation during retirement."
+    },
+    {
+      "question": "How can the best investment advisory firms in India help me with my investments?",
+      "answer": "Investment advisory firms in India can help you with your investments by offering expert advice and guidance on which investments to choose based on your risk tolerance, financial goals, and market conditions."
+    }
+  ],
+  "Mutual Fund": [
+    {
+      "question": "What is a Mutual Fund?",
+      "answer": "Mutual Fund is an investment vehicle which collects money from various investors & invests in Capital Market."
+    },
+    {
+      "question": "Are Mutual Fund Investments Safe?",
+      "answer": "All the investments are made in Capital Markets & managed by professionals after making thorough research & due diligence. However, as the investments are into Capital Markets, Investments in Mutual Funds are subject to Market Risk."
+    },
+    {
+      "question": "What is Market Risk?",
+      "answer": "Market risk is the possibility of incurring losses based on factors influencing the overall performance."
+    },
+    {
+      "question": "What are all the categories of Mutual Fund?",
+      "answer": "Mutual Funds are categorised into Equity, Debt, Hybrid etc."
+    },
+    {
+      "question": "What is an Equity Fund?",
+      "answer": "Equity Funds are the funds investing predominantly into equities from 65% to 100%. Suitable to investors seeking capital appreciation and willing to take risk."
+    },
+    {
+      "question": "What is a Debt Fund?",
+      "answer": "Debts funds are the funds that invest predominantly in Fixed Income Securities, Money Market Instruments. Debt Funds are suitable for risk-averse investors seeking regular return."
+    },
+    {
+      "question": "What is a Hybrid Fund?",
+      "answer": "Hybrid Funds predominantly invest in more than one asset class i.e., with a combination of Investments in Equity, Debt, Gold etc. Hybrid Funds are suitable for first-time investors into Mutual Funds."
+    },
+    {
+      "question": "What is Equity Linked Savings Scheme of Mutual Fund?",
+      "answer": "Popularly known as ELSS - invests in Equities. Investments in these funds are locked in for a period of 3 Years i.e., no redemptions/switches allowed for a period of 3 Years. Investment up to Rs.1.50 Lakh is eligible for Tax Deduction u/s 80C of I.T.Act."
+    },
+    {
+      "question": "What are all the methods of Investment in Mutual Fund?",
+      "answer": "Lumpsum: Making a one-time Investment in a Mutual Fund Scheme. Suitable for investors having surplus amount in hand to invest. SIP: Investing Fixed Amount at regular intervals like daily, monthly, quarterly, etc. Suitable for investors who want to create corpus for future GOALs like retirement, Child Education etc. STP: Investing a Lumpsum amount in a scheme & then switch fixed amount into another scheme at regular intervals. Suitable for investors seeking regular income at regular intervals. SWP: Investing a Lumpsum amount in a scheme and withdrawing a fixed amount at regular intervals like monthly, quarterly, etc. Suitable for risk-averse investors who do not want to get exposed to equity market risks at one go."
+    },
+    {
+      "question": "What is a Dividend Plan?",
+      "answer": "A dividend plan in a mutual fund is one in which the profits from investments are distributed to investors in the form of dividends. Dividends may be paid monthly, quarterly, half-yearly or annually."
+    },
+    {
+      "question": "What is a Growth Plan?",
+      "answer": "The growth option on a mutual fund indicates that an investor will not get any dividends from the mutual fund. By opting for the growth option, the investor allows the Mutual Fund to reinvest the money that would otherwise be paid to the investor as a dividend."
+    },
+    {
+      "question": "What is the Tax Implication in Mutual Fund?",
+      "answer": "",
+      "tableData": [
+        {
+          "Nature": "Nature",
+          "Equity Funds": "Equity Funds",
+          "Non-Equity Funds": "Non-Equity Funds"
+        },
+        {
+          "row1": "Short Term Capital Gain",
+          "row2": "Holding less than 1 Year Gains are taxed @ 15% + Cess",
+          "row3": "Holding up to 3 Yrs. Taxed as per the Tax Slab of Investor"
+        },
+        {
+          "row1": "Long Term Capital Gain",
+          "row2": "Holding above 1 Year, if the Gain exceeds 1 Lakh, excess amount is taxed @ 10% + cess",
+          "row3": "Holding up to 3 Yrs., Gains are taxed at 20% with Indexation."
+        }
+      ]
+    },
+    {
+      "question": "What is KYC?",
+      "answer": "KYC is Know Your Customer & it is mandatory to do any transaction in Mutual Funds."
+    },
+    {
+      "question": "What is Nomination?",
+      "answer": "Nomination is a process that you select a person to receive your investment money if something happens to you. This person is called a nominee. You can choose anyone like your parents, children, grandchildren, or your spouse."
+    },
+    {
+      "question": "How do I Invest in Mutual Fund?",
+      "answer": "Download iInvest Mobile App developed by Integrated from Google Play store / Apple App Store or logon to www.integratedindia.in Complete the enrolment process in just 3 minutes and start investing as per your requirement."
+    }
+  ],
+  "GIP Strategy": [
+    {
+      "question": "What is the Growth, Income, and Protection (GIP) strategy?",
+      "answer": "The GIP strategy is a holistic investment approach that aims to address various financial needs and goals of investors. It emphasizes allocating assets into three main categories: Growth assets, Income-generating assets, and Protection assets."
+    },
+    {
+      "question": "Why is it important to follow the GIP strategy?",
+      "answer": "Following the GIP strategy helps investors achieve a balanced and diversified portfolio that caters to their short-term needs, long-term wealth creation, and financial security for themselves and their families."
+    },
+    {
+      "question": "What are Growth assets?",
+      "answer": "Growth assets are investments such as stocks, mutual funds, or ETFs, which have the potential to provide capital appreciation over the long term. These assets aim to beat inflation and build wealth over time."
+    },
+    {
+      "question": "What are Income-generating assets?",
+      "answer": "Income-generating assets include bonds, fixed income securities, hybrid mutual funds which provide regular income to investors. These assets are crucial for meeting short-term financial requirements and providing stability to the portfolio."
+    },
+    {
+      "question": "Why do we need Income-generating assets?",
+      "answer": "Income-generating assets offer a source of regular cash flow, which can be utilized for daily expenses, emergencies, or planned expenses without having to sell growth assets during unfavorable market conditions."
+    },
+    {
+      "question": "What is the significance of Protection assets?",
+      "answer": "Protection assets refer to insurance products such as life insurance and health insurance. They play a vital role in securing the financial future of investors and their families by providing a safety net against unforeseen events such as illness, disability, or death."
+    },
+    {
+      "question": "How much of my portfolio should be allocated to each category?",
+      "answer": "The allocation depends on individual factors such as age, risk appetite, and investment horizon. However, a typical recommendation might be to allocate a significant portion to Growth assets for long-term wealth creation, a portion to Income-generating assets for short-term needs, and ensuring adequate coverage with Protection assets."
+    },
+    {
+      "question": "What if my financial situation changes?",
+      "answer": "It's important to regularly review and adjust your portfolio according to changes in your financial situation, goals, or market conditions. Our advisors can help you reassess your portfolio and make necessary adjustments to maintain alignment with your financial objectives."
+    },
+    {
+      "question": "Can I customize my GIP strategy based on my preferences?",
+      "answer": "Yes, the GIP strategy is flexible and can be tailored to suit your specific requirements and preferences. Our advisors can work with you to create a personalized investment plan that aligns with your goals and risk tolerance."
+    },
+    {
+      "question": "How do I get started with implementing the GIP strategy?",
+      "answer": "Simply schedule a consultation with one of our financial advisors. They will assess your financial situation, understand your goals and preferences, and help you design a customized GIP strategy that suits your needs and objectives."
+    }
+  ],
+  "Fixed Deposit": [
+    {
+      "question": "What is Fixed Income?",
+      "answer": "Fixed income refers to those investment securities that give investors regular, fixed interest payments, and return the original amount of the investment at maturity. Unlike stocks or variable-income securities, fixed-income products have predictable payments which do not change during their period. Examples include government and corporate bonds and certificates of deposits (CDs)."
+    },
+    {
+      "question": "Reasons for Investing in Fixed Asset",
+      "answer": "For risk-averse investors consuming fixed return are the most appropriate. Regular income streams can be relied upon by investors wishing to smoothen their cash flows or conserve money. Such packages are better than shares when it comes to safety hence serve as better tools for spreading investment risk."
+    },
+    {
+      "question": "Who Should Make Fixed Deposit Plans to Invest?",
+      "answer": "Retirees or retirees-to-be looking for consistent income should invest in fixed income as it offers lower risk in terms of a risk-return relationship. Basic portfolio stability with the help of the best bond investment platform is guaranteed through counterbalancing these securities with highly volatile ones like equities."
+    },
+    {
+      "question": "What is a corporate fixed deposit?",
+      "answer": "A corporate (company) fixed deposit is a deposit placed by investors with a company for a fixed term. It carries a prescribed rate of interest."
+    },
+    {
+      "question": "Is there any scope for the principal to appreciate?",
+      "answer": "No, at the end of the deposit period, the principal (original amount of investment) is returned to the deposit holder."
+    },
+    {
+      "question": "How are interest payments made?",
+      "answer": "Interest on corporate fixed deposits is paid on a monthly, quarterly, half-yearly, yearly, or maturity basis. It is paid either through cheque or through the Electronic Clearing System (ECS)."
+    },
+    {
+      "question": "When is TDS deducted on the interest earned from corporate fixed deposits?",
+      "answer": "Tax Deducted at Source (TDS) is deducted if the interest earned on a corporate fixed deposit exceeds Rs.5,000 in a financial year."
+    },
+    {
+      "question": "What is Form 15G/15H? Where can I access it?",
+      "answer": "Form 15G/15H is a self-declaration form that can be submitted by the depositor to avoid Tax Deduction at Source (TDS) if their interest income from corporate fixed deposits is higher than Rs.5,000, but their total income is below the taxable limit. This form does not require attestation, except in the case of a left-hand thumb impression, which must be attested by a gazetted officer/bank official. Form 15G/15H can be accessed from the ‘Downloads’ section of your account."
+    },
+    {
+      "question": "What is the difference between Form 15G and Form 15H?",
+      "answer": "Form 15G is meant for resident individuals who are below 65 years of age. Form 15H is meant for senior citizens who are 65 years of age or more during that financial year."
+    },
+    {
+      "question": "On the submission of Form 15G/15H, will there be any query from the income tax department?",
+      "answer": "Since one copy of the Form 15G/15H is required to be sent to the income tax department, it is possible that the department may raise a query if they deem it necessary."
+    },
+    {
+      "question": "What is the difference between a fixed deposit and a cumulative deposit?",
+      "answer": "In a fixed deposit scheme, the interest is payable at specified frequencies, which is convenient for individuals like pensioners requiring periodic interest payments. In a cumulative deposit scheme, the interest is payable at the time of maturity along with the principal. This scheme is suitable for individuals not requiring periodic interest payments and seeking money multiplier schemes."
+    },
+    {
+      "question": "What is the investment period for corporate fixed deposits?",
+      "answer": "Manufacturing companies can accept fixed deposits for a duration of 6 months to 3 years. Non-Banking Finance Companies can accept deposits for a duration of 1 year to 5 years. Housing Finance Companies can accept deposits for a period of 1 year to 7 years."
+    },
+    {
+      "question": "What is the maximum amount of investment that a company can accept in a corporate fixed deposit?",
+      "answer": "A Non-Banking Non-Finance Company (Manufacturing Company) can accept deposits subject to the following limits: \n- Up to 10% of the aggregate of paid-up share capital and free reserves if the deposits are from shareholders or are guaranteed by the directors. \n- Up to 25% of the aggregate of paid-up share capital and free reserves. \nA Non-Banking Finance Company can accept deposits up to the following limits: \n- An equipment leasing company can accept four times its net owned fund. \n- A loan or investment company can accept deposits worth up to one and a half times its net owned funds."
+    },
+    {
+      "question": "Can an NRI invest in deposits?",
+      "answer": "Non-Resident Indians (NRIs) can invest in fixed deposits with public limited companies in India under certain conditions. For instance, if the Indian company has already obtained permission to accept deposits from NRIs, the investor can invest in such a deposit without seeking separate permission."
+    }
+  ],
+  "MTF": [
+    {
+      "question": "What are the eligibility requirements for Members to provide Margin Trading Facility (MTF) to clients?",
+      "answer": "Only a corporate Member with a net worth of at least Rs.3.00 crores, computed as per the Dr. L C Gupta formula, shall be eligible to offer margin trading facility to their clients after obtaining prior approval of the Exchange."
+    },
+    {
+      "question": "How to obtain permission from the Exchange to offer margin trading facility to clients?",
+      "answer": "Member needs to seek prior permission of the Exchange by submitting an application form under ENIT New Compliance on Member’s Portal as per the format mentioned at the link- https://www.nseindia.com/trade/Membership-formats under the tab “Form for applying for approval or withdrawal of Margin Trading Facility” along with a certified extract of Board Resolution and Auditor’s certificate on net worth."
+    },
+    {
+      "question": "How to apply for withdrawal of MTF?",
+      "answer": "Member can apply for withdrawal by submitting an online application form under ENIT New Compliance on Member’s Portal as per the format mentioned at the link- https://www.nseindia.com/trade/Membership-formats under the tab “Form for applying for approval or withdrawal of Margin Trading Facility” along with a certified extract of Board Resolution. While seeking the withdrawal, the Member must ensure that all open positions under MTF are liquidated and reported to the Exchange accordingly."
+    },
+    {
+      "question": "Is consent from the clients required before offering Margin Trading facility to them?",
+      "answer": "Member shall obtain client consent in writing in their own hand or any irrefutable electronic method. Rights & obligations and the terms and conditions shall also be communicated to the client."
+    },
+    {
+      "question": "Does Member require to allot a single UCC to the same client who avails both Normal Trading and Margin Trading Facility?",
+      "answer": "All clients shall have only one unique client code (UCC) per Member which shall be reported to the Exchange. Clients availing Margin Trading Facility (MTF) should be segregated in the back office with the Trading Member, namely MTF account & Non-MTF account, which shall be mapped to the said unique client code (UCC)."
+    },
+    {
+      "question": "Which securities are eligible for margin trading?",
+      "answer": "All the equity shares classified as 'Group I security' as per Section 1.1.3 of Chapter IV of SEBI Master Circular No. SEBI/HO/MRD/DP/CIR/P/117 dated October 25, 2019 (previous SEBI circular ref. no. SEBI/HO/MRD/DP/CIR/P/2016/135 dated December 16, 2016) are eligible for margin trading facility."
+    }
+  ],
+  "Commodities": [
+    {
+      "question": "What is Commodity Market?",
+      "answer": "Commodity Market is a place wherein trades can trade in a wide variety of Commodities ranging from agricultural products to energy resources and precious metals. It is a derivatives trading market, i.e., traders buy and sell Commodities with the intention of booking profits by entering into Futures and Options trading contracts."
+    },
+    {
+      "question": "What is Commodities Trading?",
+      "answer": "Commodity trading can be defined as the process of buying and selling a range of raw materials or products – from agricultural to energy resources, crude oils, precious metal bullion, etc. This trade takes place through futures and options derivative contracts, wherein the Commodity derives its value from an underlying asset – the Commodity being traded. Commodities are usually traded in lots, and sellers can take physical delivery of the products traded or settle the trade in cash."
+    },
+    {
+      "question": "How to open a Commodity trading online account in India?",
+      "answer": "You can open a Commodity trading online account with a SEBI-recognised brokerage firm in India. You only need to fill an online form and submit the necessary KYC documents – PAN, ID, Address proof documents, and your income proof documents. You also need to submit your DEMAT account details so that the broker can link your Commodity trading account to the DEMAT account. Linking the two accounts enables the broker to debit or credit your derivatives. Once you provide these details, you can pay the account activation fee, and the broker opens your account. You will receive your Trading ID and password, and you can begin Commodity trading."
+    },
+    {
+      "question": "Is it mandatory to provide income proof documents to activate a Commodity trading account?",
+      "answer": [
+        "Yes, Commodity trading is classified as derivatives trading. Per SEBI guidelines, if you wish to conduct derivatives trading, you must submit your income proof documents. The list of valid income proof documents include,",
+        "A copy of your Bank Account Statement for the last 3 months",
+        "A copy of your DEMAT account holding statement",
+        "A copy of Form 16",
+        "Latest Salary Slip",
+        "Copy of duly filed Tax Returns",
+        "Net Worth Certificate",
+        "Copy of Annual Accounts."
+      ]
+    },
+    {
+      "question": "The Commodity market in India is regulated by which entity?",
+      "answer": "Up until Sep 2015, Forward Market Commission (FMC) was the Commodity market regulator in India. This commission was governed by the Ministry of Consumer Affairs. However, since Sep 2015, the Securities and Exchange Board of India has become the sole Commodity market regulator in the country ensuring fair trading. The Commodity Derivatives Market Regulation Department (CDMRD) is appointed to carry out the daily operations under SEBI's rules and guidelines."
+    },
+    {
+      "question": "What are the different Commodities traded in India?",
+      "answer": "Commodity Trading in India involves several agricultural Commodities and natural resources. Agricultural Commodities are known as soft Commodities, whereas natural resources that are mined or extracted are known as hard Commodities. The different types of Commodities traded in India include Gold and Silver Bullion, Base Metals, Energy Resources, Spices, Agricultural Commodities, Oils, Food Grains, etc. Please note that all Commodities are not traded on every Exchange."
+    },
+    {
+      "question": "What are Commodity futures and options?",
+      "answer": "Commodity market traders use Futures and options Commodity trading contracts. Traders who enter into futures contracts agree to buy or sell Commodities on a fixed, future date, at a fixed price, irrespective of the Commodity's market price on the contract maturity date. Traders can also enter into options contracts with more or less the same conditions as the futures contract. However, Commodities options traders have the right or option to exit the trade if it does not prove profitable. Such traders must pay a margin while entering into the contract and forfeit the margin if they choose to exit the contract."
+    },
+    {
+      "question": "How is Commodity trading beneficial?",
+      "answer": "Commodity trading proves beneficial in several ways. Firstly, traders benefit from the inflation of Commodity prices. During inflation, the cost of Commodities and raw materials increase substantially, which helps Commodity traders book maximum profits. Traders can also hedge their Commodity portfolios against a declining USD and save their assets. Furthermore, they can take advantage of various socio-economic and geopolitical events and uncertain global and economic periods, during which time the supply of goods is constricted. They can speculate or hedge their trades and book significant profits resulting from shortages."
+    },
+    {
+      "question": "What are the benefits of Commodity market trading?",
+      "answer": [
+        "Traders can derive the following benefits of Commodity trading:",
+        "Commodity trading allows investors to diversify their investment portfolios by adding a different asset class to them.",
+        "Commodities assist traders in hedging their investments against inflation since the prices of Commodities typically rise during high inflation periods. Hedging allows investors to maintain their purchasing power parity.",
+        "Geopolitical events like natural disasters, economic crisis, wars, etc., lead to scarcity of Commodities, and by extension, increased prices. Trading Commodities allow traders to guard their losses by leveraging price swings strategically."
+      ]
+    },
+    {
+      "question": "What are the different types of Commodity trading products in India?",
+      "answer": [
+        "The different types of Commodity trading products in India primarily comprise the following categories:",
+        "Agricultural Commodities like pulses, rice, cotton, rubber, legumes, etc.",
+        "Metallic Commodities and industrial metals like gold and silver coins, bullion, bars, aluminium, lead, copper, etc.",
+        "Energy resources like coal, crude oil, natural gas, etc."
+      ]
+    },
+    {
+      "question": "On what exchange does commodity trading occur, and what are the timings?",
+      "answer": [
+        "In India, commodity trading takes place on 6 exchanges, namely",
+        "Multi Commodity Exchange (MCX)",
+        "National Multi Commodity Exchange (NMCE)",
+        "Indian Commodity Exchange (ICEX)",
+        "National Commodity and Derivatives Exchange (NCDEX)",
+        "The Universal Commodity Exchange (UCX)",
+        "Ace Derivatives Exchange (ACE)",
+        "The commodity market timings depend on the type of commodity being traded. You can trade in agricultural commodities from IST 9:00 AM to 5:00 PM from Monday to Friday. The trade timings for non-agricultural commodities are IST 10:00 AM to 11:30 PM during summers and IST 10:00 AM to 11:55 PM during winters from Monday to Friday."
+      ]
+    },
+    {
+      "question": "Which are the Commodity Trading exchanges in India?",
+      "answer": [
+        "Commodity trading happens in dedicated exchanges created for this purpose. Some of the prominent ones in India include:",
+        "The National Commodity & Derivatives Exchange Limited (NCDEX) - for agricultural pulses, products such as grains (flour, barley, maize, paddy) seeds, soybean, oil, cotton, spices (sugar, black and white pepper, cumin, turmeric, coriander, anise, cardamom, cinnamon) etc.",
+        "The Multi Commodity Exchange of India Limited (MCX) - for billions of precious metals like gold or silver coins, guineas, bars, base metals such as aluminium, lead, zinc, nickel, energy sources like crude oil, natural gas, agricultural items such as rubber, palm oil, cotton, exotic spices, etc.",
+        "The Indian Commodity Exchange Limited (ICEX) - for most of the agricultural products as listed above, fiber and jute, and diamonds and steel as well."
+      ]
+    },
+    {
+      "question": "Who are the different types of participants involved in Commodity trading in India?",
+      "answer": "Commodity traders in India are primarily categorised into two types – speculators and hedgers. Speculators, also known as intra-day traders, typically try to exit their long or short positions on the same trading day or after a few days. These traders are known to be direction-agnostic, i.e., they leverage their trades as per market momentum by relying on technical charts to base their trades. On the other hand, hedgers take an offsetting or contrary position in their investments to balance their gains and losses from an underlying asset. They take on an opposite position that allows them to protect themselves against price movements and cover all their bases to ensure they take the minimum risk on their investments."
+    },
+    {
+      "question": "What is the settlement process in Commodity trading?",
+      "answer": [
+        "Settlement in Commodity trading involves tallying raised and pending buy and sell instructions, and subsequently transferring the ownership of said Commodities from the seller to the buyer in lieu of the funds exchanged. The Commodity trading settlement process includes the following steps",
+        "The relevant trade details are sent to the clearing corporations by the applicable Commodity exchanges",
+        "Thereafter, the clearing corporation informs the buyers and sellers regarding their obligations and pay-in advice on funds",
+        "The underlying clearing banks are sent a communication to ensure that they make funds available by the pay-in time",
+        "The clearing banks debit the account of the clearing member and credit the same amount to the account of the clearing corporation to complete the pay-in of funds for executed trades",
+        "In the case of pay-out of funds, the clearing bank credits the account of clearing member upon the instructions of the clearing corporation"
+      ]
+    },
+    {
+      "question": "Is physical delivery of Commodities a mandatory requirement?",
+      "answer": [
+        "Yes, SEBI has made mandatory for taking or giving delivery of Commodities upon the completion of the trade.",
+        "There are three types of delivery mechanisms that are prevalent in the Commodity market. These are compulsory delivery, sellers’ option, and intention matching.",
+        "In compulsory delivery, all open positions, upon expiry of contracts, need to be settled physically.",
+        "In the sellers’ option, sellers will have an edge while selecting the delivery location and quantity.",
+        "In intention matching, physical delivery of Commodities happens only when both buyer and seller agree to exchange the physical Commodity.",
+        "Traders are advised to check and understand the applicable delivery mechanism before going ahead with the trade."
+      ]
+    }
+  ],
+  "Gold ETF/Bond": [
+    {
+      "question": "What is Gold ETF?",
+      "answer": "Gold Exchange Traded Fund is a commodity-based Mutual Fund that invests in assets like gold. These exchange-traded funds perform like individual stocks and are traded in stock exchanges similar to trading in stocks."
+    },
+    {
+      "question": "How Does Gold ETF Work?",
+      "answer": "A gold ETF holds gold assets and is traded on a stock exchange. Its price is directly linked to the price of gold. So, if the gold price goes up by 2%, the ETF value will likely go up by about 2%. Similarly, if the gold price goes down, the ETF value will also decrease."
+    },
+    {
+      "question": "What is Sovereign Gold Bond (SGB)? Who is the issuer?",
+      "answer": "SGBs are government securities denominated in grams of gold. They are substitutes for holding physical gold. Investors have to pay the issue price in cash and the bonds will be redeemed in cash on maturity. The Bond is issued by Reserve Bank on behalf of Government of India."
+    },
+    {
+      "question": "Who is eligible to invest in the SGBs?",
+      "answer": "Persons resident in India as defined under Foreign Exchange Management Act, 1999 are eligible to invest in SGB. Eligible investors include individuals, HUFs, trusts, universities and charitable institutions. Individual investors with subsequent change in residential status from resident to non-resident may continue to hold SGB till early redemption/maturity."
+    },
+    {
+      "question": "Who Should Invest in Gold ETF?",
+      "answer": "People who want to trade gold without owning it can invest in gold ETFs to potentially increase their income."
+    },
+    {
+      "question": "What is Gold ETF Taxation?",
+      "answer": [
+        "Gold ETFs are subject to two types of taxes, as announced in the recent Budget:",
+        "a. Long-term capital gains (LTCG) will be uniformly taxed at 12.5% for all classes of assets. The indexation benefit that investors used to get was removed in Budget 2024.",
+        "b. Short-term capital gains from stocks, equity funds and units of business trust (InvIT and REIT) will be taxed at 20% as against 15% earlier."
+      ]
+    },
+    {
+      "question": "Can a Minor invest in SGB?",
+      "answer": "Yes. The application on behalf of the minor has to be made by his/her guardian."
+    },
+    {
+      "question": "What is the minimum and maximum limit for investment?",
+      "answer": "The Bonds are issued in denominations of one gram of gold and in multiples thereof. Minimum investment in the Bond shall be one gram with a maximum limit of subscription of 4 kg for individuals, 4 kg for Hindu Undivided Family (HUF) and 20 kg for trusts and similar entities notified by the government from time to time per fiscal year (April – March). In case of joint holding, the limit applies to the first applicant. The annual ceiling will include bonds subscribed under different tranches during initial issuance by Government and those purchased from the secondary market. The ceiling on investment will not include the holdings as collateral by banks and other Financial Institutions."
+    },
+    {
+      "question": "Can each member of my family buy 4Kg in their own name?",
+      "answer": "Yes, each family member can buy the bonds in his/her own name if they satisfy the eligibility criteria as defined at Q No.2."
+    },
+    {
+      "question": "Can an investor/trust buy 4 Kg/20 Kg worth of SGB every year?",
+      "answer": "Yes. An investor/trust can buy 4 Kg/20 Kg worth of gold every year as the ceiling has been fixed on a fiscal year (April-March) basis."
+    },
+    {
+      "question": "Is the maximum limit of 4 Kg applicable in case of joint holding?",
+      "answer": "The maximum limit will be applicable to the first applicant in case of a joint holding for that specific application."
+    },
+    {
+      "question": "What is the rate of interest and how will the interest be paid?",
+      "answer": "The Bonds bear interest at the rate of 2.50 per cent (fixed rate) per annum on the amount of initial investment. Interest will be credited semi-annually to the bank account of the investor and the last interest will be payable on maturity along with the principal."
+    },
+    {
+      "question": "What will I get on redemption?",
+      "answer": "On maturity, the Gold Bonds shall be redeemed in Indian Rupees and the redemption price shall be based on simple average of closing price of gold of 999 purity of previous 3 business days from the date of repayment, published by the India Bullion and Jewelers Association Limited."
+    },
+    {
+      "question": "Can I encash the bond anytime I want? Is premature redemption allowed?",
+      "answer": "Though the tenor of the bond is 8 years, early encashment/redemption of the bond is allowed after fifth year from the date of issue on coupon payment dates. The bond will be tradable on Exchanges, if held in demat form. It can also be transferred to any other eligible investor."
+    },
+    {
+      "question": "What do I have to do if I want to exit my investment?",
+      "answer": "In case of premature redemption, investors can approach the concerned bank/SHCIL offices/Post Office/agent thirty days before the coupon payment date. Request for premature redemption can only be entertained if the investor approaches the concerned bank/post office at least one day before the coupon payment date. The proceeds will be credited to the customer’s bank account provided at the time of applying for the bond."
+    },
+    {
+      "question": "Can I get the bonds in demat form?",
+      "answer": [
+        "Yes. The bonds can be held in demat account. A specific request for the same must be made in the application form itself.",
+        "Till the process of dematerialization is completed, the bonds will be held in RBI’s books. The facility for conversion to demat will also be available subsequent to allotment of the bond."
+      ]
+    }
+  ],
+  "IPO": [
+    {
+      "question": "What is Book Building?",
+      "answer": "SEBI Guidelines defines Book Building as a process undertaken by which a demand for the securities proposed to be issued by a corporate body is elicited and built up and the price for such securities is assessed for the determination of the quantum of such securities to be issued by means of a notice, circular, advertisement, document or information memoranda or offer document."
+    },
+    {
+      "question": "What is the main difference between offer of shares through book building and offer of shares through normal public issue?",
+      "answer": "Price at which securities will be allotted is not known in case of offer of shares through book building while in case of offer of shares through normal public issue, price is known in advance to investor. In case of Book Building, the demand can be known everyday as the book is built. But in case of the public issue the demand is known at the close of the issue."
+    },
+    {
+      "question": "What is minimum number of days for which bid should remain open in book building?",
+      "answer": "Book should remain open for minimum of 3 working days."
+    },
+    {
+      "question": "When can be the BIDS towards IPO be Collected?",
+      "answer": "\"SEBI ICDR Regulation 2018 – 46\" & 266 (Issue of Capital and Disclosure Requirements) provides an IPO Subscription Period during which the bids shall be accepted by the bidding system. Any blocking of funds towards IPO as per the applicable circular prior to the subscription period shall not be permitted. All members are advised to adhere to the same and other guidelines issued by SEBI/ NSE time to time."
+    },
+    {
+      "question": "Can open outcry system be used for book building?",
+      "answer": "No. As per SEBI, only electronically linked transparent facility is allowed to be used in case of book building."
+    },
+    {
+      "question": "Is the issue price for placement portion and net offer to public the same?",
+      "answer": "Yes."
+    },
+    {
+      "question": "What is the floor price in case of book building?",
+      "answer": "Floor price is the minimum price at which bids can be made."
+    },
+    {
+      "question": "Can the Individual Investor use book building facility for making an application?",
+      "answer": "Yes."
+    },
+    {
+      "question": "What are the formalities to be completed by members before participating in an IPO?",
+      "answer": "The member has to submit a one-time undertaking in prescribed format to the membership department. Members have to make the request in prescribed format giving details of the user ids along with the VSAT numbers."
+    },
+    {
+      "question": "Can more than one issue be held simultaneously using NSE IPO system?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Can the bidder revise his bids?",
+      "answer": "Yes."
+    },
+    {
+      "question": "Which members will be allowed to participate in book building of issue?",
+      "answer": "Book Running Lead Manager appointed by the issuer will intimate to the exchange the list of members who are eligible to participate in the issue. These members will be allowed to enter the bids in the IPO."
+    },
+    {
+      "question": "How to install the IPO software in trading terminal?",
+      "answer": "The members have to copy the NTIPOTDR.EXE file in root directory and then inflate the file by using command NTIPOTDR -D -O. The above executable file is available in extranet under common/ipo directory."
+    },
+    {
+      "question": "What proof can bidder request from trading member for entering bids?",
+      "answer": "Whenever a bid is entered by trading members in to the system, a unique transaction registration slip is automatically generated. Transaction registration slip gives details regarding number of shares bid for, price, the client name etc."
+    },
+    {
+      "question": "Is it possible to enter bids less than floor price?",
+      "answer": "No. The system automatically rejects the bids if price is less than floor price."
+    },
+    {
+      "question": "Is the Margin amount a compulsory field in order entry?",
+      "answer": "Margin amount is a compulsory numeric field. However if member collects no margin amount then he has to enter 0 in margin amount field."
+    },
+    {
+      "question": "Can members set up order limits for themselves?",
+      "answer": "Corporate Manager of each member can set up order limits for all the dealers under him."
+    },
+    {
+      "question": "Will the member be able to see the bid details for all the issues?",
+      "answer": "User will see the bid details for all the issues. However, he is able to enter bids only for those issues for which he has been appointed as member by Book Running Lead Manager."
+    },
+    {
+      "question": "Can the Syndicate Members set limits on orders to be entered by other members?",
+      "answer": "No. However the Syndicate Members can see the orders entered by members who are activated under him, by downloading EOD report."
+    },
+    {
+      "question": "Can the Syndicate members modify or cancel the orders of other members?",
+      "answer": "Syndicate members cannot cancel or modify the bids entered by other members."
+    },
+    {
+      "question": "What are the reports downloaded to Syndicate members?",
+      "answer": "Syndicate Member (SM) will get a report download of his own orders as well as of all other members who are activated under him."
+    },
+    {
+      "question": "Will the change in the user level hierarchy in the IPO segment affect any change in the Capital Market Segment or vice versa?",
+      "answer": " The environment for Capital Market Segment and IPO book building segment are different. It is a matter of convenience, that User Ids available in the Capital Market Segment are used in IPO book building segment. Hence, any change in either of the Market segment will not affect the other market."
+    }
+  ],
+  "Bonds": [
+    {
+      "question": "What are bonds?",
+      "answer": "Bonds are fixed-income securities in which you provide funds to a government, organization, or company with the expectation of stable payments of interest and your principal back at maturity."
+    },
+    {
+      "question": "How do I purchase bonds online with Integrated?",
+      "answer": "Through the secure platform of Integrated, you will find available bonds through browsing, select the bonds according to your investment goals, and purchase them with professional support at every stage. "
+    },
+    {
+      "question": "Which types of bonds are provided in the Indian market?",
+      "answer": "Typical ones are government bonds, corporate bonds, tax-saving bonds, and capital gain bonds, which have varying safety and returns along with tax benefits.  "
+    },
+    {
+      "question": "Are government bonds of India safe?",
+      "answer": "Government bonds of India are said to be among the least risky investments since the bonds are guaranteed by the Government of India and therefore they are suitable for conservative investors."
+    },
+    {
+      "question": "What is the meaning of tax-saving bonds, and who qualifies to invest in them?",
+      "answer": "Tax savings bonds, including some capital gain bonds, will enable you to pay less tax and enjoy fixed returns, which makes them perfect for investors interested in searching for both income and tax-efficient bonds."
+    },
+    {
+      "question": "What is the difference between government bonds and corporate bonds as investment options?",
+      "answer": "Corporate bonds in general have higher interest rates than government bonds and have different levels of credit risk concerning the entity releasing the bond based on its financial standing. "
+    },
+    {
+      "question": "Is there a fixed return in bonds?",
+      "answer": "The majority of bonds are fixed interest rate and thus predictable, although some of them could incorporate floating rates that are pegged to market indices. Integrated guides you in making decisions that are effective for your goals. "
+    },
+    {
+      "question": "What are some of the uses of bonds when forming a fixed-income portfolio?",
+      "answer": "Bonds are the main components of a fixed-income portfolio due to their stability, steady payment of interest periodically, and also because they provide diversification to decrease the risk of the portfolio."
+    }
+  ]
+}

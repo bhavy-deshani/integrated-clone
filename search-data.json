@@ -1,0 +1,38 @@
+[
+  {
+    "pageName": "Homepage",
+    "pageUrl": "/",
+    "keywords": ["home", "main", "start", "open account", "demat"],
+    "content": "Invest in Stocks, Mutual Funds, IPOs, and more. Open your FREE Demat account today and start your journey to financial freedom."
+  },
+  {
+    "pageName": "Mutual Funds",
+    "pageUrl": "/mutual-funds",
+    "keywords": ["mutual funds", "sip", "etf", "elss", "debt funds", "equity funds", "nfo"],
+    "content": "Mutual funds are smart instruments for diversifying and building wealth over the long term. We offer Equity, Debt, Hybrid, ETFs, Tax Saving Funds (ELSS), and NFOs."
+  },
+  {
+    "pageName": "IPO Page",
+    "pageUrl": "/ipo",
+    "keywords": ["ipo", "initial public offering", "listing", "apply", "bidding"],
+    "content": "Explore and invest in companies listing on the stock market for the first time. View open, upcoming, and closed IPOs."
+  },
+  {
+    "pageName": "About Us",
+    "pageUrl": "/about",
+    "keywords": ["about", "company", "mission", "vision", "values"],
+    "content": "Integrated Services is a leading provider of facility management, security, and business support solutions in India. Our journey is built on a foundation of trust, integrity, and a relentless commitment to client satisfaction."
+  },
+  {
+    "pageName": "Contact Page",
+    "pageUrl": "/contact",
+    "keywords": ["contact", "email", "phone", "address", "support"],
+    "content": "You can reach us for any inquiries. Our office is located at 5A, 5th Floor, Kences Towers, 1, Ramakrishna Street, T. Nagar, Chennai - 600 017. Email us at customercare@integratedindia.in."
+  },
+  {
+    "pageName": "FAQs",
+    "pageUrl": "/faqs",
+    "keywords": ["faq", "questions", "answers", "help"],
+    "content": "Find answers to our most common inquiries. We have FAQs for Equity, Demat, NPS, Insurance, and more."
+  }
+]
