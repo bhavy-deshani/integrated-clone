@@ -1,5 +1,6 @@
 "use client";
 import React from 'react';
+import Image from 'next/image';
 import { Swiper, SwiperSlide } from 'swiper/react';
 import { Autoplay, Pagination } from 'swiper/modules';
 import 'swiper/css';
@@ -11,37 +12,37 @@ const TestimonialSlider = ({ testimonials }) => {
       <Swiper
         modules={[Autoplay, Pagination]}
         spaceBetween={30}
-        slidesPerView={1}
+        slidesPerView={2}
         loop={true}
+        centeredSlides={true}
         autoplay={{
-          delay: 5000,
+          delay: 4000,
           disableOnInteraction: false,
         }}
         pagination={{
           clickable: true,
-          el: '.swiper-pagination-custom', // Custom pagination element
+          el: '.swiper-pagination-custom',
         }}
         breakpoints={{
-          768: {
-            slidesPerView: 2,
-            spaceBetween: 40,
-          },
-          1024: {
-            slidesPerView: 3,
-            spaceBetween: 50,
-          },
+          640: { slidesPerView: 3 },
+          1024: { slidesPerView: 5 },
         }}
       >
         {testimonials.map((testimonial, index) => (
           <SwiperSlide key={index}>
-            <div className="bg-white p-8 rounded-xl shadow-lg h-full">
-              <p className="text-text-secondary italic">“{testimonial.quote}”</p>
-              <p className="mt-4 font-bold text-primary text-right">- {testimonial.author}</p>
+            <div className="text-center">
+              <Image 
+                src={testimonial.imageSrc} 
+                alt={testimonial.author}
+                width={100} 
+                height={100}
+                className="rounded-full mx-auto border-4 border-white shadow-lg"
+              />
+              <p className="mt-4 font-bold text-primary">{testimonial.author}</p>
             </div>
           </SwiperSlide>
         ))}
       </Swiper>
-      {/* Custom Pagination container */}
       <div className="swiper-pagination-custom text-center mt-8"></div>
     </div>
   );

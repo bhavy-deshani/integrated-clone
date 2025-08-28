@@ -8,19 +8,18 @@ module.exports = {
   ],
   theme: {
     extend: {
-    fontFamily: {
-  sans: ['var(--font-jost)', 'system-ui', 'sans-serif'],
-},
+      // fontFamily: {
+      //   sans: ['var(--font-jost)', 'system-ui', 'sans-serif'],
+      // },
 
-      colors: {
-        primary: '#102A55',
+         colors: {
+        'primary': '#102A55',
         'primary-focus': '#1C355E',
-        secondary: '#005CB9',
-        accent: '#00AE42',
+        'secondary': '#005CB9',
+        'accent': '#00AE42',
         'accent-hover': '#008c35',
         'light-bg': '#F7F9FC',
         'text-primary': '#102A55',
-        'bg-primary': '#102A55',
         'text-secondary': '#4A5568',
       },
       backgroundImage: {
@@ -28,7 +27,7 @@ module.exports = {
         'gradient-conic':
           'conic-gradient(from 180deg at 50% 50%, var(--tw-gradient-stops))',
       },
-     keyframes: {
+      keyframes: {
         fadeIn: {
           '0%': { opacity: '0', transform: 'translateY(-10px)' },
           '100%': { opacity: '1', transform: 'translateY(0)' },
@@ -39,8 +38,8 @@ module.exports = {
         },
         // NEW: Add the Ken Burns effect keyframes
         kenburns: {
-            '0%': { transform: 'scale(1) translate(0, 0)' },
-            '100%': { transform: 'scale(1.1) translate(-1%, 1%)' },
+          '0%': { transform: 'scale(1) translate(0, 0)' },
+          '100%': { transform: 'scale(1.1) translate(-1%, 1%)' },
         }
       },
       animation: {
@@ -52,6 +51,6 @@ module.exports = {
     },
   },
   plugins: [
-     require('@tailwindcss/typography'),
+      require('@tailwindcss/typography'),
   ],
 }

@@ -1,10 +1,10 @@
-import { Jost } from 'next/font/google'
-import './globals.css'
-import Header from '@/components/Header'
-import Footer from '@/components/Footer'
-import HeroCarousel from '@/components/HeroCarousel'
-import ClientWrapper from '@/components/ClientWrapper'
-import Chatbot from '@/components/Chatbot'
+import { Jost } from 'next/font/google';
+import './globals.css';
+import Header from '@/components/Header';
+import Footer from '@/components/Footer';
+import ClientWrapper from '@/components/ClientWrapper';
+import Chatbot from '@/components/Chatbot';
+import BackgroundAnimation from '@/components/BackgroundAnimation'; // Import the new component
 
 const jost = Jost({ 
   subsets: ['latin'],
@@ -34,3 +34,4 @@ export default function RootLayout({ children }) {
     </html>
   )
 }
+
