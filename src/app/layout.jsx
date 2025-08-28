@@ -24,9 +24,7 @@ export default function RootLayout({ children }) {
       <ClientWrapper>
           <Header />
         {/* ADDED: Main container div for the boxed layout */}
-        <div className="max-w-screen-xl mx-auto ">
           <main>{children}</main>
-        </div>
           <Footer />
           </ClientWrapper>
            <Chatbot />
